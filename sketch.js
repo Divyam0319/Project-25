@@ -32,8 +32,9 @@ function draw() {
  
 
   groundObject.display();
-  dustbinObj.display();
   paper.display();
+  dustbinObj.display();
+  
 
 }
 
